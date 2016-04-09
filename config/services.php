@@ -31,7 +31,7 @@ return [
 
     'stripe' => [
         'model'  => 'App\User',
-        'secret' => '',
+        'secret' => 'pk_test_bNN1tEBXyW7dAKItQsVAVp6J',
     ],
 
     'github' => [
